@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MachineLearn",
+	"Description": "Machine Learning Plugin",
+	"Category": "Other",
+	"CreatedBy": "Robert Chubb - SaxonRah",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MachineLearn",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
